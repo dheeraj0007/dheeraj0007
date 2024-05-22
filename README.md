@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" align="right" >
 
-- 🔭 I’m currently working on [UX stuff](https://github.com/dheeraj0007/uxstuff)
+- 🔭 I’m currently working on [my portfolio](https://github.com/dheeraj0007/vscode-portfolio)
 
 - 🌱 I’m currently learning **Next.js And DSA**
 
