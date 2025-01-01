@@ -20,4 +20,7 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=dheeraj0007&theme=onedark)](https://git.io/streak-stats)
+
+[![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=dheeraj0007)](https://github.com/anuraghazra/github-readme-stats)
