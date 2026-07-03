@@ -131,13 +131,15 @@ dheeraj@dev:~$ echo $CURRENTLY_BUILDING
 ## ⏱️ Weekly Coding Breakdown
 
 <!--START_SECTION:waka-->
+
 ```txt
-TypeScript    10 hrs 32 mins   ████████████████████░░░░░   80.09 %
-JavaScript    53 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-Bash          43 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-Other         29 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-HTML          13 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+TypeScript    10 hrs 32 mins        ████████████████████░░░░░   80.09 %
+JavaScript    53 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Bash          43 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Other         29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+HTML          13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
+
 <!--END_SECTION:waka-->
 
 ---
