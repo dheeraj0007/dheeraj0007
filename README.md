@@ -16,16 +16,19 @@
 
 ## 🚀 About Me
 
-```javascript
-const dheeraj = {
-    role: "Full Stack Developer",
-    location: "India 🇮🇳",
-    currentFocus: "Scalable apps, microservices & fast-access RAG systems",
-    specialties: ["MERN", "Next.js", "NestJS", "E-commerce", "RAG / Vector DBs"],
-    askMeAbout: ["Web Dev", "C++", "Data Structures", "Claude Skills"],
-    techStack: ["React", "Next.js", "Node.js", "TypeScript", "PostgreSQL"],
-    funFact: "I debug better with music on 🎧"
-};
+```bash
+dheeraj@dev:~$ whoami
+> Full Stack Developer · India 🇮🇳 · turning coffee into scalable systems
+
+dheeraj@dev:~$ cat focus.txt
+> Architecting for scale — microservices vs monoliths, multi-DB design,
+> and RAG pipelines that answer before you finish typing.
+
+dheeraj@dev:~$ ls skills/
+MERN/   Next.js/   NestJS/   E-commerce/   RAG-Vector-DBs/   Claude-Skills/
+
+dheeraj@dev:~$ echo $CURRENTLY_BUILDING
+> AI-powered products + e-commerce that actually ships 🚀
 ```
 
 - 🔭 &nbsp;Building real-world products — check out my **[portfolio](https://dheerajgulati.vercel.app)**
