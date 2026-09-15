@@ -133,11 +133,11 @@ dheeraj@dev:~$ echo $CURRENTLY_BUILDING
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   9 hrs 23 mins         █████████████▒░░░░░░░░░░░   53.10 %
-Markdown     2 hrs 28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-Other        1 hr 56 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-Bash         1 hr 31 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-Liquid       1 hr 9 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+TypeScript   8 hrs 12 mins         ███████████░░░░░░░░░░░░░░   43.99 %
+Markdown     2 hrs 47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
+Liquid       2 hrs 11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+Other        2 hrs                 ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+Bash         1 hr 40 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
 ```
 
 <!--END_SECTION:waka-->
