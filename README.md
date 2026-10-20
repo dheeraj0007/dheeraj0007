@@ -133,9 +133,7 @@ dheeraj@dev:~$ echo $CURRENTLY_BUILDING
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         50 mins               ██████████████▓░░░░░░░░░░   58.55 %
-Git Config   29 mins               ████████▓░░░░░░░░░░░░░░░░   34.95 %
-TypeScript   5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
